@@ -24,6 +24,6 @@ Node.js · React · Supabase · Vercel · Playwright · Discord · Google Sheets
 ### Contacto
 
 - [Portafolio](https://ernestoaguirrechama.github.io/portafolio/)
-- [LinkedIn](https://www.linkedin.com/in/ernesto-aguirre-chama-a9a090269/)
+- [LinkedIn](https://www.linkedin.com/in/ernestoaguirrechama/)
 - Email: aguirreernesto2001@gmail.com
 - WhatsApp: [+54 9 381 566-2655](https://wa.me/5493815662655)
