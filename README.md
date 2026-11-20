@@ -4,7 +4,7 @@ Automatizo el trabajo repetitivo de los negocios: hago **bots, automatizaciones 
 
 Hoy manejo en remoto la operación de 3 agencias de Estados Unidos, con más de 200 agentes cada una, y construyo las herramientas que usan todos los días. Trabajo con inteligencia artificial en todo el proceso.
 
-Tucumán, Argentina · Disponible para trabajo remoto
+Tucumán, Argentina · Disponible para trabajo remoto · [Ver mi portafolio](https://ernestoaguirrechama.github.io/portafolio/)
 
 ### Lo que construí
 
@@ -23,6 +23,7 @@ Node.js · React · Supabase · Vercel · Playwright · Discord · Google Sheets
 
 ### Contacto
 
+- [Portafolio](https://ernestoaguirrechama.github.io/portafolio/)
 - [LinkedIn](https://www.linkedin.com/in/ernesto-aguirre-chama-a9a090269/)
 - Email: aguirreernesto2001@gmail.com
 - WhatsApp: [+54 9 381 566-2655](https://wa.me/5493815662655)
